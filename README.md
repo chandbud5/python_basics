@@ -1,3 +1,3 @@
 # python_programs
 
-Basic python programs can be found in this...;)
+You can find basic python programs in this repo...;)
