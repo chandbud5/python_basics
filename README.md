@@ -1,4 +1,4 @@
-# python_programs
+# Python Basics
 
 You can find basic python programs in this repo...;)
 
